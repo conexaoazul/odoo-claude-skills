@@ -2,7 +2,7 @@
 """
 Asaas NFSe QuickTest — Debug rápido de emissão de NFSe
 ========================================================
-Autor: Claudia · Conexão Azul Digital
+Autor: Conexão Azul Digital
 Data: 2026-06-17
 Versão: 1.0
 
@@ -157,7 +157,7 @@ class AsaasNFSeQuickTest:
 
 
 def build_parser():
-    parser = argparse.ArgumentParser(description="Asaas NFSe QuickTest — Claudia/Conexão Azul")
+    parser = argparse.ArgumentParser(description="Asaas NFSe QuickTest — Conexão Azul")
     parser.add_argument("--token", default=os.getenv("ASAAS_ACCESS_TOKEN"), help="Token de API Asaas (ou env ASAAS_ACCESS_TOKEN)")
     parser.add_argument("--customer", required=True, help="Customer ID (ex: cus_XXXXXXXXXXXXXXX)")
     parser.add_argument("--service-description", required=True, help="Descrição do serviço")
