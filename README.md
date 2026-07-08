@@ -108,7 +108,11 @@ pip3 install requests
 python3 skills/odoo-asaas-nfse-ops/scripts/validate_nfse.py
 ```
 
-## Suporte
+## Suporte e planos
+
+As skills são **livres e abertas**. Para quem quer começar rápido ou delegar a operação,
+oferecemos **Setup Express**, **Suporte NFS-e** e **Operação Gerenciada** —
+veja [`PLANS.md`](PLANS.md).
 
 Skills mantidas por [Conexão Azul Digital](https://conexaoazul.com).
 Para suporte técnico assistido com Claude Code, entre em contato.
