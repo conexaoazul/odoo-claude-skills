@@ -51,6 +51,26 @@ de criar uma skill ou emitir um audit é quase zero (o arsenal já está pago).
 
 ---
 
+## Portal de Workflows (assinatura volume — novo)
+
+Além da escada NFS-e, oferecemos um **portal de automação** com **2.590 workflows n8n + 1.158 skills Claude Code + 50 módulos Odoo** organizados por vertical. Modelo **freemium → assinatura recorrente em volume**, focado no **Autonomista** (auto-serviço, sem call).
+
+> **Benchmark de mercado:** n8nHub (concorrente, só workflows n8n) cobra $19/$49/$99. Nós entregamos workflows **+ skills + módulos Odoo + integração Asaas/Chatwoot + operação** — pilha integrada, não peça solta.
+
+| Tier | Preço | Para quem | Entrega |
+|---|---|---|---|
+| **Portal Free** | R$ 0 | Quem quer testar | 50 workflows básicos + **demo trial no nosso n8n** (3 execuções) + import 1-click |
+| **Portal Pro** | **R$ 147/mês** (ou R$1.470/ano) | Autonomista que quer escalar | Catálogo completo 2.590 + 1.158 skills + updates da comunidade syncados + comunidade + import 1-click |
+| **Portal Business** | **R$ 397/mês** | Time que quer premium | Pro + workflows premium curados + suporte prioritário + 5 Setup Express/ano + API access |
+
+**Trial:** 14 dias Portal Pro grátis, **sem cartão**. Demo trial de workflow roda no nosso n8n — você vê funcionando antes de pagar.
+
+**ROI do Portal Pro:** 1 dev custa R$8k/mês. Portal Pro custa R$147/mês e entrega 3 automações/mês prontas. **Paga em 1 semana de trabalho economizado.**
+
+**Cross-sell natural:** Portal Pro → quando travar na config, Setup Express R$600 → quando quiser solução completa, Bundle vertical → quando crescer e não quiser ter trabalho, Operação Gerenciada R$890/mês.
+
+---
+
 ## Escada de planos (good-better-best)
 
 | Plano | Preço | Para quem | Entrega |
